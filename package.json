@@ -1,0 +1,11 @@
+{
+  "name": "yt-web-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TheNoim/yt-web-task",
+  "author": "Noim <nilsbergmann@noim.io>",
+  "license": "MIT",
+  "dependencies": {
+    "ytdl-core": "^0.14.2"
+  }
+}
